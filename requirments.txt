@@ -1,0 +1,8 @@
+streamlit
+sklearn
+tensorflow
+numpy
+pandas 
+matplotlib
+seaborn
+gunicorn
